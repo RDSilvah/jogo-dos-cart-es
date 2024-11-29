@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua Iglesa',
+    'Lingua Inglesa',
     'Como se fala Cansado em inglês?',
     'Se diz Tired'
 )
